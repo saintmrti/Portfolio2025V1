@@ -1,11 +1,11 @@
 import React from "react";
 import Image from "next/image";
-import Profile from "../../../public/images/profile.jpg";
-import WorldSVG from "../../../public/svgs/WorldSVG.svg";
-import GithubIcon from "../../../public/svgs/github-mark.svg";
-import Linkedin from "../../../public/svgs/linkedin.svg";
-import DownloadIcon from "../../../public/svgs/Download.svg";
-import EmailIcon from "../../../public/svgs/email.svg";
+import Profile from "../../public/images/profile.jpg";
+import WorldSVG from "../../public/svgs/WorldSVG.svg";
+import GithubIcon from "../../public/svgs/github-mark.svg";
+import Linkedin from "../../public/svgs/linkedin.svg";
+import DownloadIcon from "../../public/svgs/Download.svg";
+import EmailIcon from "../../public/svgs/email.svg";
 import AchievementCard from "../components/about/AchievementCard";
 
 const About = () => {

@@ -1,4 +1,4 @@
-import SkillsCarousel from "../skills/SkillsCarousel";
+import SkillsCarousel from "../components/skills/SkillsCarousel";
 
 const Skills = () => {
   return (
