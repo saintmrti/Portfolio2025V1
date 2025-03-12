@@ -54,8 +54,8 @@ const About = () => {
           </div>
         </div>
       </div>
-      <div className="mt-24 mx-28 px-28">
-        <p className="text-lg">
+      <div className="mt-28 mx-28 px-28 pb-28">
+        <p className="text-lg pt-10">
           Speciliced in create web solutions to build the future. Working hand
           in hand with big companies and SME. With over three years of
           experience my focus is on development web applications using the

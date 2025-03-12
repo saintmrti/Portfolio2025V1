@@ -1,12 +1,7 @@
 import React from "react";
+import type { AchievementCard } from "../../interfaces/about.interface";
 
-interface AchievementProps {
-  title: string;
-  description: string;
-  quantity: number;
-}
-
-const AchievementCard: React.FC<AchievementProps> = ({
+const AchievementCard: React.FC<AchievementCard> = ({
   title,
   description,
   quantity,
