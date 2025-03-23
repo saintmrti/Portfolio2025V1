@@ -48,10 +48,10 @@ const About = () => {
         </div>
         <div className="lg:col-span-3">
           <div className="flex justify-evenly items-center">
-            <button className="btn-primary">
+            <button className="btn-primary text-sm lg:text-base">
               <EmailIcon className="mr-2 w-5 h-5" /> Contact Me
             </button>
-            <button className="btn-primary">
+            <button className="btn-primary text-sm lg:text-base">
               <DownloadIcon className="mr-2 w-5 h-5" /> Get Resume
             </button>
           </div>
